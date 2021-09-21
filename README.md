@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**nicolasboeuf/nicolasboeuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nicolas Boeuf, datajournalist + web developer
 
-Here are some ideas to get you started:
+I am a data journalist and web developer specializing in data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mainly work with VueJS to bring data driven stories to life.
+
+## Want to check out more ?
+
+You can see a selection of my projects on [my online portofolio](https://nicolasboeuf.fr/en)
+
+![](./img/portfolio.png)
+
+## How did I get there ?
+
+![](./img/timeline.png)
+
+## Want to reach me ?
+
+If you have a project involving data and want to talk to me about it, feel free to reach me at :
+
+:email: **Mail** nicolas_boeuf@hotmail.fr
+:bird: **Twitter** [@nicolas_boeuf](https://twitter.com/nicolas_boeuf)
