@@ -20,4 +20,5 @@ You can see a selection of my projects on [my online portofolio](https://nicolas
 If you have a project involving data and want to talk to me about it, feel free to reach me at :
 
 :email: **Mail** nicolas_boeuf@hotmail.fr
+
 :bird: **Twitter** [@nicolas_boeuf](https://twitter.com/nicolas_boeuf)
